@@ -1,4 +1,4 @@
-
+' Display a Message Box with How many people you annoy
 Public Sub SentFolderStats()
   
     Dim TotalRecipients As Long
